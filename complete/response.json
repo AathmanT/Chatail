@@ -1,0 +1,38 @@
+{
+  "id": "16b9413a1aca086c",
+  "threadId": "16b9413a1aca086c",
+  "labelIds": [
+    "UNREAD",
+    "CATEGORY_UPDATES",
+    "INBOX"
+  ],
+  "snippet": "Total: Rs40.59 Wed, Jun 26, 2019 Thanks for riding, Aathman We hope you enjoyed your ride this evening. Total Rs40.59 Uber Colombo Trip fare Rs90.59 Subtotal Rs90.59 Promotions -Rs50.00 Amount Charged",
+  "historyId": "303685",
+  "internalDate": "1561557441000",
+  "payload": {
+    "partId": "",
+    "mimeType": "multipart/related",
+    "filename": "",
+    "headers": [
+      {
+        "name": "Delivered-To",
+        "value": "aathmant@gmail.com"
+      },
+      {
+        "name": "Received",
+        "value": "from o21.email.uber.com (o21.email.uber.com. [167.89.42.176])        by mx.google.com with ESMTPS id j1si3483414edh.344.2019.06.26.06.57.21        for \u003caathmant@gmail.com\u003e        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 26 Jun 2019 06:57:22 -0700 (PDT)"
+      },
+      {
+        "name": "Subject",
+        "value": "Your Wednesday evening trip with Uber"
+      },
+      {
+        "name": "Date",
+        "value": "Wed, 26 Jun 2019 13:57:21 +0000 (UTC)"
+      }
+    ]
+
+
+  },
+  "sizeEstimate": 359544
+}
